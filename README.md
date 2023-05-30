@@ -13,7 +13,7 @@ Dependency injection is a technique used to decouple classes from each other wit
 
 The above example illustrates the concept of dependency injection, where objects are injected into a class instead of being directly instantiated by it. This decoupling allows for more flexible and modular code.
 
-## Managing Memory Consumption
+## Singleton Pattern
 
 When many objects are instantiated without proper management, it can lead to high memory consumption. However, there is a solution known as the Singleton Pattern. This pattern ensures that a class is instantiated only once, saving memory resources.
 
