@@ -1,7 +1,5 @@
 # dependency-injection-playground
-This repo serves as a playground for learning and practicing dependency injection concepts. It have examples and exercises to understand various dependency injection techniques and frameworks.
-
-This repository contains code and examples related to my journey of learning dependency injection. I have been following the tutorial ["Learn Dependency Injection and Write Better Code"](https://www.youtube.com/watch?v=eQ90v7HQT-Q&t=2s) from AmigosCode.
+This repo contains code and examples related to my journey of learning dependency injection. I have been following the tutorial ["Learn Dependency Injection and Write Better Code"](https://www.youtube.com/watch?v=eQ90v7HQT-Q&t=2s) from AmigosCode.
 
 ## What is Dependency Injection?
 
