@@ -1,0 +1,7 @@
+C:\dev\Projects\dependency-injection-playground\Ninject\NinjectDemo\obj\Debug\NinjectDemo.csprojAssemblyReference.cache
+C:\dev\Projects\dependency-injection-playground\Ninject\NinjectDemo\obj\Debug\NinjectDemo.csproj.CoreCompileInputs.cache
+C:\dev\Projects\dependency-injection-playground\Ninject\NinjectDemo\bin\Debug\NinjectDemo.exe.config
+C:\dev\Projects\dependency-injection-playground\Ninject\NinjectDemo\bin\Debug\NinjectDemo.exe
+C:\dev\Projects\dependency-injection-playground\Ninject\NinjectDemo\bin\Debug\NinjectDemo.pdb
+C:\dev\Projects\dependency-injection-playground\Ninject\NinjectDemo\obj\Debug\NinjectDemo.exe
+C:\dev\Projects\dependency-injection-playground\Ninject\NinjectDemo\obj\Debug\NinjectDemo.pdb
