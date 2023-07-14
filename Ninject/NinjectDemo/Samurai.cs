@@ -8,16 +8,16 @@ namespace NinjectDemo
 {
     class Samurai
     {
-        readonly Sword sword;
+        readonly IArma arma;
 
-        public Samurai()
+        public Samurai(IArma arma)
         {
-            this.sword = new Sword();
+            this.arma = arma;
         }
 
-        public void Attack(string target)
+        public void Atacar(string alvo)
         {
-            this.sword.Hit(target);
+            this.arma.Golpear(alvo);
         }
     }
 }

@@ -10,8 +10,11 @@ namespace NinjectDemo
     {
         static void Main(string[] args)
         {
-            var warrior = new Samurai();
-            warrior.Attack("the evildoers");
+            var capitão = new Samurai(new Espada());
+            var soldado = new Samurai(new Shuriken());
+
+            soldado.Atacar("os inimigos");
+            capitão.Atacar("a tropa");
         }
     }
 }

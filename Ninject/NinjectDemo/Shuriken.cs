@@ -6,11 +6,11 @@ using System.Threading.Tasks;
 
 namespace NinjectDemo
 {
-        class Sword
+    public class Shuriken : IArma
+    {
+        public void Golpear(string alvo)
         {
-            public void Hit(string target)
-            {
-                Console.WriteLine($"Chopped {target} clean in half.");
-            }
+            Console.WriteLine("{0} Armadura perfuradas!", alvo);
         }
+    }
 }
